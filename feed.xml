@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Les Ailes Du Pic - Club d&#x27;aéromodélisme sur Montpellier</title>
+    <link href="https://marcrochelesailesdupic.github.io/lesailesdupic/feed.xml" rel="self" />
+    <link href="https://marcrochelesailesdupic.github.io/lesailesdupic" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Les Ailes du Pic</name>
+    </author>
+    <id>https://marcrochelesailesdupic.github.io/lesailesdupic</id>
+
+</feed>

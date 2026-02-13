@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Les Ailes Du Pic - Club d&#x27;aéromodélisme sur Montpellier",
+    "description": "",
+    "home_page_url": "https://marcrochelesailesdupic.github.io/lesailesdupic",
+    "feed_url": "https://marcrochelesailesdupic.github.io/lesailesdupic/feed.json",
+    "user_comment": "",
+    "icon": "https://marcrochelesailesdupic.github.io/lesailesdupic/media/website/logo-combine.svg",
+    "author": {
+        "name": "Les Ailes du Pic"
+    },
+    "items": [
+    ]
+}
